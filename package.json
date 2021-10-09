@@ -1,0 +1,27 @@
+{
+  "name": "web_scraping",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lakshay-526/web_scraping.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lakshay-526/web_scraping/issues"
+  },
+  "homepage": "https://github.com/Lakshay-526/web_scraping#readme",
+  "dependencies": {
+    "axios": "^0.22.0",
+    "excel4node": "^1.7.2",
+    "jsdom": "^17.0.0",
+    "minimist": "^1.2.5",
+    "pdf-lib": "^1.16.0"
+  }
+}
